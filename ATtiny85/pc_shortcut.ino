@@ -25,6 +25,5 @@ void loop() {
   DigiKeyboard.sendKeyStroke(KEY_F1);//F tuşları 
   DigiKeyboard.delay(500); //bekleme
 */
-DigiKeyboard.sendKeyStroke(KEY_ARROW_TOP);
-while (true);
+
 }
